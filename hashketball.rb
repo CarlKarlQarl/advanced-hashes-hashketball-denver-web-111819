@@ -276,5 +276,3 @@ def long_name_steals_a_ton?
   
   false
 end
-
-num_points_scored("Jeff Adrien")
